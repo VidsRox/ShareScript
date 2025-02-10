@@ -1,6 +1,3 @@
-Here's a clean and concise README for your project:  
-
----
 
 # 📝 ShareScript  
 
