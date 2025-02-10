@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Here's a clean and concise README for your project:  
 
-## Getting Started
+---
 
-First, run the development server:
+# 📝 Google Docs Clone  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A powerful, real-time collaborative document editor with rich text formatting, comments, notifications, and more.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Rich Text Editor** – Advanced formatting tools  
+- **Real-time Collaboration** – Sync edits instantly  
+- **Comments & Mentions** – Keep discussions organized  
+- **Notifications** – Stay updated on document activity  
+- **Document Templates** – Start writing faster  
+- **Copy & Paste Formatting** – Maintain consistency  
+- **Undo/Redo History** – Never lose progress  
+- **Table Support** – Organize data seamlessly  
+- **Image Uploads** – Enhance documents visually  
+- **Margin Controls** – Adjust layout precisely  
+- **Export Options** – PDF, HTML, TXT, JSON  
+- **User Profiles & Workspaces** – Organize efficiently  
+- **Authentication** – Secure access  
+- **Responsive Design** – Works on all devices  
+- **Cursor Tracking** – See collaborators' actions  
+- **Lists & Checklists** – Keep notes structured  
+- **Link Embedding** – Add references easily  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚙️ Tech Stack  
 
-## Learn More
+- **Next.js 15** – Lightning-fast performance  
+- **Shadcn UI & Tailwind CSS** – Modern, sleek UI  
+- **Vercel Deployment** – Fast and scalable hosting  
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Get Started  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/yourusername/google-docs-clone.git
+   cd google-docs-clone
+   ```
+2. Install dependencies:  
+   ```bash
+   npm install
+   ```
+3. Run the app:  
+   ```bash
+   npm run dev
+   ```
+4. Open in browser: **http://localhost:3000**  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👏 Shoutout  
+Huge thanks to **[Code With Antonio](https://www.youtube.com/@codewithantonio)** for the inspiration! 🙌  
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🚀 **Try it out and start collaborating!**
