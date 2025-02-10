@@ -2,7 +2,7 @@ Here's a clean and concise README for your project:
 
 ---
 
-# 📝 Google Docs Clone  
+# 📝 ShareScript  
 
 A powerful, real-time collaborative document editor with rich text formatting, comments, notifications, and more.  
 
