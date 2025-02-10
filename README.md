@@ -36,7 +36,7 @@ A powerful, real-time collaborative document editor with rich text formatting, c
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/google-docs-clone.git
+   git clone https://github.com/VidsRox/google-docs-clone.git
    cd google-docs-clone
    ```
 2. Install dependencies:  
